@@ -16,3 +16,5 @@ Regarding the results obtained from this study, weak ground motions recorded by 
 
 ## Citation <a name = "citation"></a>
 Sedaghati, F., S. Pezeshk, and N. Nazemi (2018). Site amplification within the Mississippi embayment of the central United States: Investigation of possible differences among various phases of seismic waves and presence of basin waves. Soil Dynamics and Earthquake Engineering, 113, 534-544.
+https://www.sciencedirect.com/science/article/abs/pii/S0267726117306760
+
