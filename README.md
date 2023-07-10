@@ -13,6 +13,7 @@ Regarding the results obtained from this study, weak ground motions recorded by 
 
 ## Install the requirements <a name = "install"></a>
 * The provided codes do not need any specific installation except for the signal processing toolbox.
+* You just need to run the user_interface.m.
 
 ## Citation <a name = "citation"></a>
 Sedaghati, F., S. Pezeshk, and N. Nazemi (2018). Site amplification within the Mississippi embayment of the central United States: Investigation of possible differences among various phases of seismic waves and presence of basin waves. Soil Dynamics and Earthquake Engineering, 113, 534-544.
